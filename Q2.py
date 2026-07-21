@@ -127,7 +127,7 @@ def smartpeng(x):
     return True
 
 
-def seperate(x):
+def separate(x):
     for k in range(7):
         for i in range(82):
             for j in range(41):

@@ -198,7 +198,7 @@ def smartpeng(x):  # 智慧大棚
     return True
 
 
-# def seperate(x):
+# def separate(x):
 #     for k in range(7):
 #         for i in range(82):
 #             for j in range(41):
@@ -344,7 +344,7 @@ def profit_function(x):
     water_crop_vege(x, areas)
     ordipeng(x)
     smartpeng(x)
-    # seperate(x)
+    # separate(x)
     arealimit(x)
     water_crop_vege(x, areas)
     ordipeng(x)
